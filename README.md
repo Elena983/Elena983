@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Elena983
+- 👋 Hi, I’m Elena
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning single-cell analysis
+- 🌱 I’m currently learning single-cell spatial transcriptomics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb 
 
